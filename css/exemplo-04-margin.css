@@ -1,0 +1,35 @@
+body{
+    background-color: #9cc2ff;
+}
+
+h1{
+    /*margin-left: 10px;*/
+    margin-top: 40px;
+    text-align: center;
+}
+
+img{
+    max-height: 300px;
+}
+
+div{
+    margin-bottom: 10px;
+}
+
+input{
+    display: block;
+    width: 100%;
+    box-sizing: border-box
+}
+
+textarea{
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+form{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 30px;
+}
